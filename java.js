@@ -17,7 +17,4 @@ function newItem() {
     deleteButton.remove();
   });
 }
-
-deleteButton.addEventListener("click", function () {
-  item.remove();
 });
